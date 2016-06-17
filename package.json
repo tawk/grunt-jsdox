@@ -27,18 +27,18 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "jsdox": "~0.4.4",
+    "jsdox": "~0.4.9",
     "lodash": "~2.4.1",
     "q": "~1.0.1"
   },
   "devDependencies": {
-    "grunt": "0.4.x",
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-nodeunit": "~0.2.0"
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-nodeunit": "~1.0.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.x"
+    "grunt": "~1.0.1"
   },
   "keywords": [
     "grunt",
